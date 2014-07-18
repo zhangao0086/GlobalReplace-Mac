@@ -770,7 +770,7 @@
                     <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" id="LwN-nD-PfY">
                         <rect key="frame" x="97" y="11" width="373" height="17"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="right" title="支持正则表达式" id="dV9-xN-Lo0">
+                        <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="right" title="支持正则表达式，替换不能撤消，注意备份" id="dV9-xN-Lo0">
                             <font key="font" metaFont="system"/>
                             <color key="textColor" name="scrollBarColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
@@ -790,7 +790,7 @@
                     <button verticalHuggingPriority="750" id="eUf-xC-aHJ">
                         <rect key="frame" x="192" y="145" width="104" height="32"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <buttonCell key="cell" type="push" title="查找" bezelStyle="rounded" alignment="center" enabled="NO" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="63T-kC-0tt">
+                        <buttonCell key="cell" type="push" title="预览" bezelStyle="rounded" alignment="center" enabled="NO" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="63T-kC-0tt">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                             <font key="font" metaFont="system"/>
                         </buttonCell>
